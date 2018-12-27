@@ -1,0 +1,81 @@
+body {
+	background: linear-gradient(to bottom right, #FFDAB9, #FFB6C1);
+	height: 97vh;
+}
+
+.button1{
+	font-size: 110%;
+	font-family: Courier New;
+	font-weight: bold;
+	position: absolute;
+	top: 69%; 
+	width: 100%;
+	background-color: #FF7F50; 
+}
+
+.button2{
+	font-size: 110%;
+	font-family: Courier New;
+	font-weight: bold;
+	position: absolute;
+	top: 86%; 
+	width: 120%;
+	background-color: #FF7F50; 
+}
+.button3{
+	font-size: 110%;
+	font-family: Courier New;
+	font-weight: bold;
+	position: absolute;
+	top: 87%; 
+	width: 60%;
+	background-color: #FF7F50; 
+}
+.button4{
+	font-size: 110%;
+	font-family: Courier New;
+	font-weight: bold;
+	position: absolute;
+	top: 86%; 
+	width: 60%;
+	background-color: #FF7F50; 
+}
+.tabl4{
+	margin-top: 160%;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+.tabl3{
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+#textH{
+	position: absolute;
+	top: 60%; 
+	height: 24px;
+	width: 30%;
+}
+
+#textW{
+	position: absolute;
+	top: 50%; 
+	height: 24px;
+	width: 30%;
+}
+#textX{
+	position: absolute;
+	top: 75%; 
+	height: 24px;
+	width: 25%;
+}
+#textK{
+	position: absolute;
+	left: 55%;
+	top: 40%; 
+	height: 24px;
+	width: 15%;
+}
+#textT{
+	position: absolute; 
+	height: 24px;
+	width: 10px;
+}
